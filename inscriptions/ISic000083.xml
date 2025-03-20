@@ -200,7 +200,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="la"><!-- text needs checking against photo and editing into epidoc -->
                 <ab>
-                    <lb n="1"/><w>Iuliae</w> <name><w>Florentinae</w></name> <w>infan(t)i</w> <w>dulcissimae</w> <w>atq(ue)</w> <w>in-
+                    <lb n="1"/><w>Iuliae</w> <name><w>Florentinae</w></name> <w>infan<supplied reason="omitted">t</supplied>i</w> <w>dulcissimae</w> <w>atq(ue)</w> <w>in-
                     <lb n="2" break="no"/>nocentissimae</w> <w>fideli</w> <w>factae</w> <w>parens</w> <w>conlocavit</w>
                     <lb n="3"/><w>quae</w> <w>pridie</w> <name><w>Nonas</w></name> <name><w>Martias</w></name> <w>ante</w> <w>lucem</w> <w>pagana</w>
                     <lb n="4"/><w>nata</w> <name><w>Zoilo</w></name> <roleName type="supracivic" subtype="corrector"><w>corr(ectore)</w></roleName> <w>p(rovinciae)</w> <w>mense</w> <w>octavo</w> <w>decimo</w> <w>et</w> <w>vices(i)-
